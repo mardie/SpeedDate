@@ -1,0 +1,25 @@
+{
+  "name": "speeddate",
+  "version": "0.9.0",
+  "description": "Very fast relations",
+  "main": "SpeedDate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Diego Marquina <d@mardie.net> (http://mardie.net)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "lodash": "~2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "redis": "~0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mardie/SpeedDate.git"
+  }
+}
