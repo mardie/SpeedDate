@@ -1,4 +1,4 @@
-# SpeedDate
+# SpeedDate [![build status](https://secure.travis-ci.org/mardie/SpeedDate.png)](http://travis-ci.org/mardie/SpeedDate)
 
 SpeedDate is a library that provides fast relations for your data. Currently it is only available for NODE.js but in a near future this could change. It uses redis because It is very fast but you can use it along other structures or DBs (Use SpeedDate just for relate ids and keep the rest where you like). Design focus is speed and simplicity. SpeedDate borns because the need of a fast and transparent system for related data that doesn't query a hundred hidden querys on the background. SpeedDate test its performance for a quantified development and improvement.
 
